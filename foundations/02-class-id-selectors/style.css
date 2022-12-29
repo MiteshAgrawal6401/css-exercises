@@ -1,0 +1,21 @@
+.no1, .no3, .no5{
+    background-color: pink;
+    font-display: verdana, ;
+
+}
+
+#no2{  
+    color: blue;
+    font-size: 36px;
+}
+
+.no3{
+    font-size: 24px;
+}
+
+#no4{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+
+}
